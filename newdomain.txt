@@ -1,0 +1,2 @@
+VMW1/ISO/
+new-netIPAddress -IPaddress "10.0.0.213" -interfaceAlias Ethernet -defaultGateway "10.0.0.1" PrefixLength 24
